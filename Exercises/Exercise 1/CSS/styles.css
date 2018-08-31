@@ -1,0 +1,10 @@
+/* style pour toutes les pages des documents */
+body{
+    font-family:"Arial Black";
+    background:  center no-repeat url("../Image/FondSCP.jpg");
+}
+p {
+    color:white;
+    border: 1px solid black;
+    text-align: center;
+}
