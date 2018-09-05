@@ -3,11 +3,8 @@ body{
     font-family:"Arial Black";
     background:  center no-repeat url("../Image/SCP.png");
 }
-<style>
- .city {
-     background-color: tomato;
-     color: white;
-     padding: 10px;
+
+
 p {
     color:white;
     text-align: center;
@@ -18,7 +15,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color:red;
+    color:black;
 }
 li {
     font-size: 16px;
@@ -28,8 +25,17 @@ li {
 a {
     color:yellowgreen;
 }
-img{
+.Title {
+    background-color: yellowgreen;
+    color: white;
+    padding: 10px;
+}
 
+
+#Title1 {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
 }
 #map1{
     width: 35%;
