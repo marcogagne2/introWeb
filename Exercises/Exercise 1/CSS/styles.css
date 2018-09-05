@@ -1,10 +1,22 @@
 /* style pour toutes les pages des documents */
 body{
     font-family:"Arial Black";
-    background:  center no-repeat url("../Image/FondSCP.jpg");
+    background:  center no-repeat url("../Image/SCP.png");
 }
 p {
     color:white;
-    border: 1px solid black;
     text-align: center;
+}
+h1 {
+    color:red;
+    border: 1px solid white;
+    text-align: center;
+}
+h2 {
+    color:red;
+}
+li {
+    font-size: 16px;
+    letter-spacing: 1px;
+    color:white;
 }
