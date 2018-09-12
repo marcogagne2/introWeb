@@ -8,18 +8,31 @@ h1{
     border: 5px solid olivedrab;
 }
 .box {
-
 	border: 2px solid darkblue;
 	padding-left: 10px;
-    width:25%;
+    width:23%;
     float:left;
 }
 .box2 {
     border: 2px solid red;
-    clear:bottom;
+    clear:top;
+    margin-left: 242px;
+    margin-right: 10px;
+    padding: 0 8px 0 10px;
 }
-p {
+.text {
     float:left;
+    margin-top: 0;
 }
+img {
+    height: 293px;
+    width: 293px;
+    padding-left: 225px;
+    padding-right: 225px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+}
+
 
 
