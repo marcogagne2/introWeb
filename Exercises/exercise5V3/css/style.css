@@ -1,0 +1,48 @@
+﻿main{
+	margin:0 auto; /* permet de centrer la page*/
+	width: 55%;
+	text-align: center;
+}
+
+
+nav
+{
+	width : 18% ;
+	border : 1px solid blue ;
+	text-align: left;
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 3%;
+
+}
+section
+{
+	display: inline-block;
+	width: 77%;
+
+}
+
+aside
+{
+	display: inline-block;
+	border : 1px solid  ;
+	width: 45%;
+	vertical-align: top ;
+	margin-left: 3px;
+
+
+}
+
+article {
+
+	border: 1px solid black;
+	display: inline-block;
+	width: 51%;
+	margin-right: 10px;
+}
+
+
+
+
+
+
