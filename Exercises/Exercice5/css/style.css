@@ -7,23 +7,22 @@
 
 nav
 {
-	width : 150px ;
+	width : 18% ;
 	border : 1px solid blue ;
-	display:inline-block;
-	vertical-align: top;
-	margin-right: 5%;
 	text-align: left;
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 3%;
+
 }
 section
 {
 	border : 1px solid blue ;
-	width: 55%;
-	display:inline-block;
-	margin-right: 17%;
-
-
+    width: 77%;
+    display:inline-block;
 
 }
+
 
 
 
