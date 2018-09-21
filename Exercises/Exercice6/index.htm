@@ -23,15 +23,23 @@
 
 				<div>
 					<label>Téléphone*</label> <input type ="tel" name = TxtVille placeholder="999 999-9999" maxlength="12"><br><br>
-					<label>Date d'inscription</label> <input type ="Date" name = TxtVille placeholder="jj-ms-aaaa" maxlength="10"><br><br>
+					<label>Date d'inscription</label> <input type ="date" name = dtedebut placeholder="jj-ms-aaaa" maxlength="10"><br><br>
+                    <label>Date de fin</label> <input type ="Date" name = dtefin placeholder="jj-ms-aaaa" maxlength="10"><br><br>
+                    <div>
                     <p>
-                        <input type="radio" name="radGenre" value="masculin"
-                        id="m" checked>
-                        <label for="m">Homme</label>
-                        <input type="radio" name="radGenre" value="feminin"
-                        id="f">
-                        <label for="f">Femme</label>
+                        <label>Sexe</label>
+                        <input type="radio" name="radGenre" value="masculin" id="m" checked>Homme
+                        <input type="radio" name="radGenre" value="feminin"  id="f">Femme
                     </p>
+                    </div>
+                    <label>Carte de Crédit</label><input type="text" list="Carte de crédit" name="Carte de crédit">
+                    <datalist id="Carte de Crédit">
+                        <option value="Mastercard">Canada</option>
+                        <option value="Visa">France</option>
+                        <option value="Americain Express">Suisse</option>
+                        <label>Carte de crédit</label> <input type ="number" name = crtenom placeholder="9999 9999 9999 9999" maxlength="20"><br><br>
+                    </datalist>
+
 				</div>
 			</form>
 
