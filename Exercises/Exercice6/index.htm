@@ -15,10 +15,10 @@
 			<div class="Entete">Entrez les informations du membre</div>
 			<form action="" method="get">
 				<div>
-					<label>Nom*</label> <input type =" text " name = txtnom placeholder="Nom" ><br><br>
-					<label>Prénom*</label> <input type=" text " name="txtPrénom" placeholder="Prénom"><br><br>
-					<label>Adresse</label> <input type =" text " name = Txtadresse placeholder="999 rue"><br><br>
-					<label> Ville</label> <input type =" text " name = TxtVille placeholder=""><br><br>
+					<label>Nom*</label> <input class="un" type =" text " name = txtnom placeholder="Nom" ><br><br>
+					<label>Prénom*</label> <input class="un" type=" text " name="txtPrénom" placeholder="Prénom"><br><br>
+					<label>Adresse</label> <input class="un" type =" text " name = Txtadresse placeholder="999 rue"><br><br>
+					<label> Ville</label> <input class="un" type =" text " name = TxtVille placeholder=""><br><br>
 				</div>
 
 				<div>
@@ -32,15 +32,20 @@
                         <input type="radio" name="radGenre" value="feminin"  id="f">Femme
                     </p>
                     </div>
-                    <label>Carte de Crédit</label><input type="text" list="Carte de crédit" name="Carte de crédit">
-                    <datalist id="Carte de Crédit">
-                        <option value="Mastercard">Canada</option>
-                        <option value="Visa">France</option>
-                        <option value="Americain Express">Suisse</option>
-                        <label>Carte de crédit</label> <input type ="number" name = crtenom placeholder="9999 9999 9999 9999" maxlength="20"><br><br>
-                    </datalist>
-
+                    <label>Choix de la carte</label>
+                    <select name="crédit">
+                        <option value="Mastercard">Matercard</option>
+                        <option value="Visa">Visa</option>
+                        <option value="Americain Express">Americain Express</option>
+                     </select><br><br>
+                    <label>Carte de crédit</label> <input type ="text" name = crtenum placeholder="9999 9999 9999 9999" maxlength="20"><br><br>
 				</div>
+                <div >
+                <label>Mot de passe*</label> <input class="un" type ="text" name = mdp ><br><br>
+                <label>Courriel</label> <input class="un" type ="text" name = mdp placeholder="aaaaaa@aaaa.aaa" maxlength="15"><br><br>
+                </div>
+                <input type="submit" value="Envoyer">
+                <input type="reset" value="Réinitialiser">
 			</form>
 
 		</div>

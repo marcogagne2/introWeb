@@ -21,9 +21,11 @@ input
     display:inline-block;
 
 }
-
-#Carte\ de\ Crédit
+.un
 {
-    float:left;
+padding-left: 10%;
 }
-
+placeholder
+{
+    padding-right:10%;
+}
