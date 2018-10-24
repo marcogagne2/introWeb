@@ -6,10 +6,14 @@
 	<meta name="author" content="prenon NOM">
 </head>
 <body>
-  <p>Entrez l'argent Canadien :<input id="txtArgCAN" name="txtMot" value="0"></p>
-  <p>Entrez le taux de Change Canadien==>Euro:<input id="txtTauxChange" name="txtMot" value="0"></p>
-  <p>Entrez le taux de Change Canadien==>Euro:<input id="txtTauxChange" name="txtMot" value="0"></p>
-  <p>Entrez le taux de Change Canadien==>Euro:<input id="txtTauxChange" name="txtMot" value="0"></p>
+<p class="Align"> <label >Choix du vétérinaire:</label>
+    <select  id="lstDestination" name="lstDestination">
+        <option value="Alma" >Alma</option>
+        <option value="Chicago" >Chicago</option>
+    </select>
+  <p>Entrez la Distance à parcourir:<input id="txtDistance" name="txtMot" value="0"></p>
+  <p>Entrez la consommation de la voiture (nbL au 100km)<input id="txtConsom" name="txtMot" value="0"></p>
+  <p>Entrez le prix en litre de l'essence<input id="txtEssence" name="txtMot" value="0"></p>
   <input id="btnAfficher" name="btnCalculer" value="Calculer" type="button" onclick="btnCalculer_onclick()"> 
 <script src="js/traitement.js"></script>   
 </body>

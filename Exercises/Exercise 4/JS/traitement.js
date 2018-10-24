@@ -1,10 +1,15 @@
 function btnCalculer_onclick()
 { 
-     var ArgentCAN,TauxChangeEuro,Euro;
+     var Destination,Distance,Consom,Prix_L,Cout;
 
-     ArgentCAN=parseFloat(document.getElementById("txtArgCAN").value);
-    TauxChangeEuro=parseFloat(document.getElementById("txtTauxChange").value);
-     Euro=(ArgentCAN*TauxChangeEuro);
-     console.log("Votre Argent Canadien en Euro = "+Euro);
+    Destination=document.getElementById("lstDestination").value;
+    Distance=parseFloat(document.getElementById("txtDistance").value);
+    Consom=parseInt(document.getElementById("txtConsom").value);
+    Prix_L=parseFloat(document.getElementById("txtEssence").value);
+
+    Cout=parseFloat(Distance*Consom/100*Prix_L);
+
+    console.log("Le coût de votre déplacement à "+Destination+" est de "+Cout+"$")
+
 
 }
