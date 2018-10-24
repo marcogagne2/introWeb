@@ -9,7 +9,7 @@ function btnCalculer_onclick()
 
     Cout=parseFloat(Distance*Consom/100*Prix_L);
 
-    console.log("Le coût de votre déplacement à "+Destination+" est de "+Cout+"$")
+    console.log("Le coût de votre déplacement à "+Destination+" est de "+Cout+"$");
 
 
 }
