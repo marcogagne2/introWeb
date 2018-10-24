@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="" />
+    <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="exercise 4 terminer">
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise 9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab Institut/Sondage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab Institut/Sondage.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,21 +15,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="idex.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/idex.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 9/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="140" lean-forward="true" selection-start-line="11" selection-start-column="140" selection-end-line="11" selection-end-column="140" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SCP.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/SCP.html">
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/JS/traitement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -45,8 +59,38 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Exercises/Exercise 1/Page web 1.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice2/page2.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice2/css/styles.css" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice3/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice3/indexpage2.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercises 4/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice3/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercises/exercice4/index2.html" />
+        <option value="$PROJECT_DIR$/Exercises/exercice4/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice5/exercise5V2.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice5/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice5/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercises/exercise5V2/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercises/exercise5V3/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercises/exercise5V3/index.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 1/SCP.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 1/idex.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice6/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/Exercises/Exercice6/index.htm" />
+        <option value="$PROJECT_DIR$/Lab/Lab Institut/CSS/styles.css" />
+        <option value="$PROJECT_DIR$/Lab/Lab Institut/page2.html" />
+        <option value="$PROJECT_DIR$/Lab/Lab Institut/index.html" />
+        <option value="$PROJECT_DIR$/Lab/Lab Institut/img/Sondage.html" />
+        <option value="$PROJECT_DIR$/Lab/Lab Institut/Sondage.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise1/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 2/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise1/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 2/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 3/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 3/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 4/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 9/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -60,10 +104,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="78" />
+    <option name="y" value="37" />
+    <option name="width" value="1038" />
+    <option name="height" value="1118" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,7 +132,32 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 9" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,6 +171,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\IntroWeb\Exercises\exercice4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,6 +200,30 @@
       <option name="presentableId" value="Default" />
       <updated>1535550272217</updated>
       <workItem from="1535550276580" duration="4771000" />
+      <workItem from="1536329880803" duration="3197000" />
+      <workItem from="1536712798380" duration="8900000" />
+      <workItem from="1536758877508" duration="5832000" />
+      <workItem from="1536935120581" duration="1862000" />
+      <workItem from="1537326351579" duration="7178000" />
+      <workItem from="1537360484609" duration="810000" />
+      <workItem from="1537364100911" duration="5009000" />
+      <workItem from="1537470970741" duration="5683000" />
+      <workItem from="1537537935084" duration="3816000" />
+      <workItem from="1537671368081" duration="725000" />
+      <workItem from="1537814819846" duration="116000" />
+      <workItem from="1537842282275" duration="3093000" />
+      <workItem from="1537877820454" duration="120000" />
+      <workItem from="1537930863822" duration="985000" />
+      <workItem from="1537966753267" duration="267000" />
+      <workItem from="1537967424808" duration="6312000" />
+      <workItem from="1538145284775" duration="1530000" />
+      <workItem from="1538359228711" duration="1702000" />
+      <workItem from="1538543661106" duration="393000" />
+      <workItem from="1538667856998" duration="229000" />
+      <workItem from="1539788491114" duration="908000" />
+      <workItem from="1539954926983" duration="2724000" />
+      <workItem from="1539961180694" duration="263000" />
+      <workItem from="1540387239868" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535550785570</created>
@@ -155,35 +253,241 @@
       <option name="project" value="LOCAL" />
       <updated>1535555039162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercises 2 version terminer 1">
+      <created>1536332595057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536332595057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="exercises 2 version terminer 2">
+      <created>1536333061640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536333061640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add index exercises 3">
+      <created>1536712865224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536712865224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add index exercises 3">
+      <created>1536712963208</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536712963208</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add index exercises 3">
+      <created>1536714092550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536714092550</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fin meme si pas parfait">
+      <created>1536725091465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1536725091465</updated>
+    </task>
+    <task id="LOCAL-00011" summary="exercise 4">
+      <created>1536764576036</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1536764576036</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exercise 5">
+      <created>1536938350784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1536938350784</updated>
+    </task>
+    <task id="LOCAL-00013" summary="exercise 5 part 1 terminer">
+      <created>1537331004925</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537331004925</updated>
+    </task>
+    <task id="LOCAL-00014" summary="exercise 5 part 2 terminer">
+      <created>1537332530496</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537332530496</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercise 5 part 3 terminer?">
+      <created>1537333645986</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537333645986</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exercises 6 en cour part 1">
+      <created>1537369199981</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537369199981</updated>
+    </task>
+    <task id="LOCAL-00017" summary="exercise 6 part 2 en cours">
+      <created>1537474825605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537474825606</updated>
+    </task>
+    <task id="LOCAL-00018" summary="exercise 6 part 1 en cours">
+      <created>1537541142470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537541142471</updated>
+    </task>
+    <task id="LOCAL-00019" summary="exercise 6 terminer">
+      <created>1537847562204</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537847562204</updated>
+    </task>
+    <task id="LOCAL-00020" summary="exercise 4 terminer">
+      <created>1537966930098</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1537966930098</updated>
+    </task>
+    <task id="LOCAL-00021" summary="exercise 4 terminer">
+      <created>1537967462321</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1537967462321</updated>
+    </task>
+    <task id="LOCAL-00022" summary="exercise 4 terminer">
+      <created>1537967628426</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1537967628426</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Partie 1 terminer">
+      <created>1537973809568</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1537973809568</updated>
+    </task>
+    <task id="LOCAL-00024" summary="lab 1 a terminer">
+      <created>1538146768682</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538146768682</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Terminer exercises 1 js">
+      <created>1539789244964</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1539789244964</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Exercise 2 terminer">
+      <created>1539956184822</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1539956184822</updated>
+    </task>
+    <task id="LOCAL-00027" summary="exercise 1 terminer">
+      <created>1539956251729</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1539956251729</updated>
+    </task>
+    <task id="LOCAL-00028" summary="exercise 2 terminer">
+      <created>1539956972399</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1539956972399</updated>
+    </task>
+    <task id="LOCAL-00029" summary="exercise 3 terminer">
+      <created>1539957648626</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1539957648626</updated>
+    </task>
+    <task id="LOCAL-00030" summary="exercise 4 en cours">
+      <created>1539961443718</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1539961443718</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4771000" />
+    <option name="totallyTimeSpent" value="68789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10449219" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.31023622" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.31045407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20939335" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.31023622" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -202,31 +506,166 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Premier site" />
     <MESSAGE value="Deuxieme page" />
     <MESSAGE value="titres + but + classe" />
     <MESSAGE value="titres + but + classe + url" />
-    <option name="LAST_COMMIT_MESSAGE" value="titres + but + classe + url" />
+    <MESSAGE value="exercises 2 version terminer 1" />
+    <MESSAGE value="exercises 2 version terminer 2" />
+    <MESSAGE value="add index exercises 3" />
+    <MESSAGE value="fin meme si pas parfait" />
+    <MESSAGE value="exercise 4" />
+    <MESSAGE value="exercise 5" />
+    <MESSAGE value="exercise 5 part 1 terminer" />
+    <MESSAGE value="exercise 5 part 2 terminer" />
+    <MESSAGE value="exercise 5 part 3 terminer?" />
+    <MESSAGE value="exercises 6 en cour part 1" />
+    <MESSAGE value="exercise 6 part 2 en cours" />
+    <MESSAGE value="exercise 6 part 1 en cours" />
+    <MESSAGE value="exercise 6 terminer" />
+    <MESSAGE value="exercise 4 terminer" />
+    <MESSAGE value="Partie 1 terminer" />
+    <MESSAGE value="lab 1 a terminer" />
+    <MESSAGE value="Terminer exercises 1 js" />
+    <MESSAGE value="Exercise 2 terminer" />
+    <MESSAGE value="exercise 1 terminer" />
+    <MESSAGE value="exercise 2 terminer" />
+    <MESSAGE value="exercise 3 terminer" />
+    <MESSAGE value="exercise 4 en cours" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 4 en cours" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/Page web 1.html">
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice5/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/index2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/indexpage2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/page2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/idex.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/SCP.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/Page web 1.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/page2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/indexpage2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/CSS/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercises 4/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/index2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice5/exercise5V2.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5V2/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5V3/image/logo.png" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5V3/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/SCP.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/idex.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5V2/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5V3/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice5/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice6/CSS/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice6/index.htm" />
+    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/CSS/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="3145">
+          <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/SCP.html">
+    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/img/Sondage.html" />
+    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/Sondage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="431">
+          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/idex.html">
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice5/index.html" />
+    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/page2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="140" lean-forward="true" selection-start-line="11" selection-start-column="140" selection-end-line="11" selection-end-column="140" />
+        <state relative-caret-position="594">
+          <caret line="60" column="18" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="60" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="68" column="148" selection-start-line="68" selection-start-column="148" selection-end-line="68" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75" lean-forward="true" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
     </entry>
