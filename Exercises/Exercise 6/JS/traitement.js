@@ -1,6 +1,6 @@
 function btnCalculer_onclick()
 { 
-     var Un,Cinq,Dix,Ving_Cinq,Total;
+    var Un,Cinq,Dix,Ving_Cinq,Total;
 
     Un=parseInt(document.getElementById("txtUn").value);
     Cinq= parseInt(document.getElementById("txtCinq").value);

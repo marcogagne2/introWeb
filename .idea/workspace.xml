@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux/CSS/monstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux/ExerciceGarderie.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux/img/Animal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux/index.html" afterDir="false" />
+    <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="exercise 5 js Terminer">
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V1/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V1/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V1/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V1/img/fond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 6/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise 6/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise1/JS/traitement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise1/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,28 +23,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js">
+        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="91" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="91" />
+            <state relative-caret-position="510">
+              <caret line="30" column="77" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="30" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux/JS/traitement.js">
+        <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V1/JS/traitement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -90,10 +94,18 @@
         <option value="$PROJECT_DIR$/Exercises/Exercise 2/index.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 3/index.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 3/JS/traitement.js" />
-        <option value="$PROJECT_DIR$/Exercises/Exercise 4/index.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 9/index.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 9/JS/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 4/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 4/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 5/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 6/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 6/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 7/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm" />
+        <option value="$PROJECT_DIR$/Exercises/CinéClub - V1/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -106,7 +118,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1038" />
     <option name="height" value="1119" />
@@ -134,27 +146,20 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+              <item name="CinéClub - V1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+              <item name="CinéClub - V1" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 9" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +243,9 @@
       <workItem from="1539788491114" duration="908000" />
       <workItem from="1539954926983" duration="2724000" />
       <workItem from="1539961180694" duration="263000" />
-      <workItem from="1540387239868" duration="4268000" />
+      <workItem from="1540387239868" duration="4313000" />
+      <workItem from="1540399064547" duration="5524000" />
+      <workItem from="1540562742014" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535550785570</created>
@@ -457,16 +464,66 @@
       <option name="project" value="LOCAL" />
       <updated>1540391842867</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="exercise animalerie en cours">
+      <created>1540393517001</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1540393517001</updated>
+    </task>
+    <task id="LOCAL-00033" summary="exercise animalerie Terminer">
+      <created>1540400382991</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1540400382991</updated>
+    </task>
+    <task id="LOCAL-00034" summary="exercise 4 js Terminer">
+      <created>1540402088159</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1540402088159</updated>
+    </task>
+    <task id="LOCAL-00035" summary="exercise 4 js Terminer">
+      <created>1540402110785</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1540402110785</updated>
+    </task>
+    <task id="LOCAL-00036" summary="exercise 4 js Terminer">
+      <created>1540402365210</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1540402365210</updated>
+    </task>
+    <task id="LOCAL-00037" summary="exercise 5 js Terminer">
+      <created>1540403498274</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1540403498274</updated>
+    </task>
+    <task id="LOCAL-00038" summary="exercise 6 js Terminer">
+      <created>1540404128953</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1540404128953</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70464000" />
+    <option name="totallyTimeSpent" value="78703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="1119" extended-state="0" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20939335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10449219" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
@@ -480,35 +537,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32875368" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20939335" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.31023622" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -527,11 +562,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="titres + but + classe + url" />
-    <MESSAGE value="exercises 2 version terminer 1" />
-    <MESSAGE value="exercises 2 version terminer 2" />
-    <MESSAGE value="add index exercises 3" />
-    <MESSAGE value="fin meme si pas parfait" />
     <MESSAGE value="exercise 4" />
     <MESSAGE value="exercise 5" />
     <MESSAGE value="exercise 5 part 1 terminer" />
@@ -552,17 +582,19 @@
     <MESSAGE value="exercise 4 en cours" />
     <MESSAGE value="exercise exercise 9 terminer" />
     <MESSAGE value="exercise 9 terminer" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 9 terminer" />
+    <MESSAGE value="exercise animalerie en cours" />
+    <MESSAGE value="exercise animalerie Terminer" />
+    <MESSAGE value="exercise 4 js Terminer" />
+    <MESSAGE value="exercise 5 js Terminer" />
+    <MESSAGE value="exercise 6 js Terminer" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 6 js Terminer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/index2.html" />
-    <entry file="file://$PROJECT_DIR$/Exercises/exercice4/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/index.html" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/indexpage2.html" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice3/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/css/styles.css" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/index.html" />
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice2/page2.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/idex.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/SCP.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/Page web 1.html" />
@@ -618,13 +650,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/JS/traitement.js" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -632,13 +658,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise1/index.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -653,24 +673,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -688,17 +694,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="92" lean-forward="true" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 6/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="68" lean-forward="true" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 7/index.html" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 7/JS/traitement.js" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="91" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="91" />
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="77" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="30" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V1/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
         </state>
       </provider>
     </entry>
