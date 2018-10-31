@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="CSS/style.css">
+   <title>Le Cinéclub</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<!-- Boite de texte -->
+<form action="" method="get">
+   <fieldset>
+      <legend><h1>Le Cinéclub</h1></legend>
+      <!-- Boîtes de texte -->
+      <p> Entrez le prix de base:<input id="txtBasePrix" name="txtBasePrix" ></p>
+      <p> Entrez l'âge:<input id="txtAge" name="txtAge" ></p>
+      <!-- Liste déroulante-->
+      <p> <label >Sélectionnez le choix du film:</label>
+         <select  id="lstFilm" name="lstFilm">
+            <option value="Friday the 13" >Friday the 13</option>
+            <option value="Saw 3"  >Saw 3</option>
+            <option value="Insidious" >Insidious</option>
+            <option value="Scary movie 5" >Scary movie 5</option>
+         </select>
+       <!-- Radio bouton -->
+         <br><br>
+      Midi<input type="radio" name="radChoix" checked="true" id="radMidi">
+      Soir<input type="radio" name="radChoix" id="radSoir">
+      <!--Case à cocher -->
+      <p>Mi-Session<input type="checkbox" id="chkServ" name="chkServ"></p>
+      <!-- label affichage -->
+      <p id="lblMessage" name="lblMessage"></p>
+      <!-- Bouton -->
+      <p><button id="btnCalculer" name="btnCalculer" type="button" onclick="btnCalculer_onclick()">Calculer</button></p>
+   </fieldset>
+</form>
+<script src="js/traitement.js"></script>
+</body>
+
+
+
+
+
+
+
+
+
+
+
