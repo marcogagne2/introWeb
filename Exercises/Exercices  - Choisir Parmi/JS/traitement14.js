@@ -6,28 +6,18 @@ function btnCalculer_onclick()
     nbr2=parseInt(document.getElementById("txtNbre2").value);
     Symbole=document.getElementById("txtOperateur").value;
 
-    if(Symbole=='+')
-    {
-       Rep=nbr1+nbr2;
-    }
-    else
+    switch(Symbole)
         {
-            if(Symbole=='-')
-            {
-                Rep=nbr1-nbr2;
-            }
-            else
-            {
-                if(Symbole=='*')
-                {
-                    Rep=nbr1*nbr2;
-                }
-                else
-                    {
-                        Rep=nbr1/nbr2;
-                    }
-            }
+        case '+':Rep=nbr1+nbr2;
+        break;
+        case '-':Rep=nbr1-nbr2;
+        break;
+        case '*':Rep=nbr1*nbr2;
+        break;
+        case '/':Rep=nbr1/nbr2;
+        break;
         }
+
 
     document.getElementById("lblMessage").innerHTML = "Votre Résultat est: "+ Rep;
 
