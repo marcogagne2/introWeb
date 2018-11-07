@@ -59,5 +59,23 @@ function btnCalculer_onclick()
     Total=((NbrJours*cout)+(((NbrJours*cout)*14.975)/100)+Toilettage+CoutVet)-Rabais;
 
     console.log("Vétérinaire responsable est "+ ChoixVet+".Le montant est de "+Total.toFixed(2)+" pour "+NbrJours+" jours ,"+Toilettagemot+" service de toilettage.");
+    document.getElementById("lblMessage").innerHTML =("Vétérinaire responsable est "+ ChoixVet+".Le montant est de "+Total.toFixed(2)+" pour "+NbrJours+" jours ,"+Toilettagemot+" service de toilettage.")
+}
+function radChoix1_onclick()
+{
+    var chien,chat;
+
+    chien=document.getElementById("radimgChien").value;
+    chat=document.getElementById("radimgChat").value;
+
+    if(document.getElementById("radimgChien").checked == true)
+    {
+        document.getElementById("Img").innerHTML = "<img src='img/Dog.jpg'>";
+    }
+    if(document.getElementById("radimgChat").checked == true)
+    {
+        document.getElementById("Img").innerHTML = "<img src='img/lime-cat.jpg'>";
+    }
+
 
 }
