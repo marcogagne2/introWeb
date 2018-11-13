@@ -79,3 +79,14 @@ function btnTrouverPire_onclick()
     }
     document.getElementById("lblReponse").innerHTML =("Votre nombre le plus petit est "+varpettite+" et il appartient à "+personne);
 }
+function btnRechercher_onclick()
+{
+    for(i=0;i<tabjoueur.lenght;i++)
+    {
+        if(tabjoueur[i]== Nom)
+        {
+            document.getElementById("lblReponse").innerHTML =("Le nombre du joueur correspondant est"+tabPoint[i]);
+        }
+    }
+
+}
