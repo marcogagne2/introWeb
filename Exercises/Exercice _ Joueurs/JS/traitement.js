@@ -36,7 +36,12 @@ function btndisable_desactiver()
 }
 function btnTrouverMoy_onclick()
 {
-    var Moy,TotNbr;
+    Moy=TrouverMoyenne();
+    document.getElementById("lblReponse").innerHTML =("Votre Moyenne est de "+Moy);
+}
+function TrouverMoyenne()
+{
+    var TotNbr,moy;
 
     TotNbr=0;
 
@@ -45,12 +50,21 @@ function btnTrouverMoy_onclick()
         TotNbr += tabPoint[i];
     }
 
-    Moy=TotNbr/tabPoint.length;
-    document.getElementById("lblReponse").innerHTML =("Votre Moyenne est de "+Moy);
+    moy=TotNbr/tabPoint.length;
+
+    return moy;
 }
 function btnTrouverMeilleur_onclick()
 {
     var vargrande,personne;
+
+    vargrande = tabPoint[TrouverMeilleur()];
+    personne = tabjoueur[TrouverMeilleur()];
+    document.getElementById("lblReponse").innerHTML =("Votre nombre le plus grand est "+vargrande+" et il appartient à "+personne);
+}
+function TrouverMeilleur()
+{
+    var i,vargrande,personne;
     vargrande = 0;
 
     for (i = 0; i < tabjoueur.length; i++)
@@ -61,11 +75,20 @@ function btnTrouverMeilleur_onclick()
             personne = tabjoueur[i];
         }
     }
-    document.getElementById("lblReponse").innerHTML =("Votre nombre le plus grand est "+vargrande+" et il appartient à "+personne);
+
+    return i;
 }
 function btnTrouverPire_onclick()
 {
-    var varpettite,personne;
+    var varpettite,personne;;
+
+    varpettite=tabPoint[TrouvePire()];
+    personne=tabjoueur[TrouvePire()];
+    document.getElementById("lblReponse").innerHTML =("Votre nombre le plus petit est "+varpettite+" et il appartient à "+personne);
+}
+function TrouvePire()
+{
+    var i,varpettite,personne;
 
     varpettite=999999999999;
 
@@ -77,7 +100,7 @@ function btnTrouverPire_onclick()
             personne = tabjoueur[i];
         }
     }
-    document.getElementById("lblReponse").innerHTML =("Votre nombre le plus petit est "+varpettite+" et il appartient à "+personne);
+    return i;
 }
 function btnRechercher_onclick()
 {
