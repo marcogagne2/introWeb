@@ -25,7 +25,7 @@ function btnAjouter_onclick()
 }
 function btndisable_desactiver()
 {
-    if(cpt==3)
+    if(cpt===3)
     {
         document.getElementById("btnAjouter").disabled=true;
         document.getElementById("btnRechercher").disabled=false;
@@ -83,7 +83,7 @@ function btnRechercher_onclick()
 {
     for(i=0;i<tabjoueur.lenght;i++)
     {
-        if(tabjoueur[i]== Nom)
+        if(tabjoueur[i]=== Nom)
         {
             document.getElementById("lblReponse").innerHTML =("Le nombre du joueur correspondant est"+tabPoint[i]);
         }

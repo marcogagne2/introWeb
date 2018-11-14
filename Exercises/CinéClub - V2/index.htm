@@ -15,7 +15,7 @@
       <p> Entrez l'âge:<input id="txtAge" name="txtAge" ></p>
       <!-- Liste déroulante-->
       <p> <label >Sélectionnez le choix du film:</label>
-         <select  id="lstFilm" name="lstFilm">
+         <select  id="lstFilm" name="lstFilm" onclick="lstFilm_onclick()">
             <option value="Friday the 13" >Friday the 13</option>
             <option value="Saw 3"  >Saw 3</option>
             <option value="Insidious" >Insidious</option>
@@ -31,6 +31,7 @@
       <p id="lblMessage" name="lblMessage"></p>
       <!-- Bouton -->
       <p><button id="btnCalculer" name="btnCalculer" type="button" onclick="btnCalculer_onclick()">Calculer</button></p>
+      <img id="Img">
    </fieldset>
 </form>
 <script src="js/traitement.js"></script>

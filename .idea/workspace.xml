@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/img/Insidious.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/img/Jason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/img/Saw3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/img/Scary_Movie_V.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js">
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="866">
-              <caret line="79" column="81" selection-start-line="79" selection-start-column="81" selection-end-line="79" selection-end-column="81" />
+            <state relative-caret-position="357">
+              <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercice _ Joueurs/index.html">
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="121" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="121" />
+            <state relative-caret-position="849">
+              <caret line="58" column="77" lean-forward="true" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -79,8 +85,6 @@
         <option value="$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm" />
         <option value="$PROJECT_DIR$/Exercises/CinéClub - V1/JS/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 5/JS/traitement.js" />
-        <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js" />
-        <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm" />
         <option value="$PROJECT_DIR$/Exercises/Exercices -  Si composé/Exercise 11/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/Exercices -  Si composé/Exercise 12/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/Exercices -  Si composé/Exercise 10/traitement.js" />
@@ -98,7 +102,9 @@
         <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux V2/index.html" />
         <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux V2/JS/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/Exercice _ Joueurs/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm" />
         <option value="$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -112,10 +118,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="646" />
-    <option name="y" value="236" />
-    <option name="width" value="1038" />
-    <option name="height" value="1119" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,26 +145,33 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+              <item name="CinéClub - V2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+              <item name="CinéClub - V2" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="CinéClub - V2" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux V2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux V2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -242,7 +255,10 @@
       <workItem from="1541554818741" duration="2487000" />
       <workItem from="1541600994019" duration="2208000" />
       <workItem from="1541603528229" duration="2830000" />
-      <workItem from="1541773670285" duration="6532000" />
+      <workItem from="1541773670285" duration="6706000" />
+      <workItem from="1542073196772" duration="1945000" />
+      <workItem from="1542075212917" duration="758000" />
+      <workItem from="1542205183564" duration="1689000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535550785570</created>
@@ -573,17 +589,31 @@
       <option name="project" value="LOCAL" />
       <updated>1541602615191</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="debut exercise joueur">
+      <created>1541780437806</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1541780437806</updated>
+    </task>
+    <task id="LOCAL-00049" summary="debut exercise joueur">
+      <created>1542075165968</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1542075165968</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114382000" />
+    <option name="totallyTimeSpent" value="118948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17089844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453125" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
@@ -651,7 +681,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -784,20 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercices -  Si composé/index#10.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercices -  Si composé/Exercise 12/traitement.js" />
     <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V1/index.htm">
@@ -903,24 +919,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux V2/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercice _ Joueurs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="148" lean-forward="true" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="148" />
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice _ Joueurs/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux V2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="121" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="121" />
+        <state relative-caret-position="714">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="79" column="81" selection-start-line="79" selection-start-column="81" selection-end-line="79" selection-end-column="81" />
+        <state relative-caret-position="288">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="849">
+          <caret line="58" column="77" lean-forward="true" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
         </state>
       </provider>
     </entry>

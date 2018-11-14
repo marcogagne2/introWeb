@@ -50,4 +50,13 @@ function btnCalculer_onclick()
     Cout=Prix-(Prix*Rabais);
     console.log("Un billet du "+Temps+" pour un spectateur de "+Age+" ans coûte "+Cout+"$ pour le film "+Film);
 
+    function lstFilm_onclick()
+    {
+        var imagemovie;
+
+        document.getElementById("lstFilm").scr=imagemovie;
+
+        document.getElementById("Img").innerHTML =("img"/+imagemovie+".jpg");
+    }
+
 }
