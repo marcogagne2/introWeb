@@ -36,13 +36,13 @@ function valideExiste()
             document.getElementById("txtNbre2").style.backgroundColor = "red";
             document.getElementById("txtOperateur").style.backgroundColor = "red";
         }
-        if(document.getElementById("txtNbre2").value==="")
+        else if(document.getElementById("txtNbre2").value==="")
         {
             document.getElementById("txtNbre1").style.backgroundColor = "red";
             document.getElementById("txtNbre2").style.backgroundColor = "red";
             document.getElementById("txtOperateur").style.backgroundColor = "red";
         }
-        if(document.getElementById("txtOperateur").value==="")
+        else if(document.getElementById("txtOperateur").value==="")
         {
             document.getElementById("txtNbre1").style.backgroundColor = "red";
             document.getElementById("txtNbre2").style.backgroundColor = "red";
