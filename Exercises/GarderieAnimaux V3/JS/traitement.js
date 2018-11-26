@@ -27,34 +27,32 @@ function Saisir()
 }
 function validechampobli()
 {
+    var Boite= new Array("txtNbreJours","txtNbreHeures","txtNom","txtNum");
     var valide=false;
 
-    if(valideExiste()===true)
+    for(i = 0 ; i < Boite.length ; i++)
     {
-        valide=true;
+        if(valideExiste(Boite[i])===true)
+        {
+            valide=true;
+        }
     }
     return valide;
+
 }
-function valideExiste()
+function valideExiste(couleur)
 {
     var valide=false;
 
-    while(valide===false)
+    if(document.getElementById(couleur).value === "")
     {
-        if (document.getElementById("txtNbreJours").value===""||document.getElementById("txtNbreHeures").value===""||document.getElementById("txtNom").value===""||document.getElementById("txtNum").value==="")
-        {
-            document.getElementById("txtNbreJours").style.backgroundColor = "red";
-            document.getElementById("txtNbreHeures").style.backgroundColor = "red";
-            Nomclient=document.getElementById("txtNom").style.backgroundColor = "red";
-            NumClient=document.getElementById("txtNum").style.backgroundColor = "red";
-        }
-        else
-        {
-            document.getElementById("txtNbre1").style.backgroundColor = "white";
-            document.getElementById("txtNbre2").style.backgroundColor = "white";
-            document.getElementById("txtOperateur").style.backgroundColor = "white";
-            valide=true;
-        }
+        document.getElementById(couleur).style.backgroundColor = "red";
+        valide=false;
+    }
+    else
+    {
+        document.getElementById(couleur).style.backgroundColor = "white";
+        valide=true;
     }
     return valide;
 }

@@ -44,9 +44,6 @@ function valideExiste(couleur)
         valide=true;
     }
 
-
-
-
 }
 function calculer(nbr1,nbr2,Symbole)
 {
