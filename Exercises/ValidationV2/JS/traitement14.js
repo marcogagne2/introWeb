@@ -16,47 +16,36 @@ function saisir()
 }
 function validechampobli()
 {
+    var boite = new Array("txtNbre1","txtNbre2","txtOperateur");
     var valide=false;
 
-    if(valideExiste()===true)
+    for(i=0;i<boite.length;i++)
     {
-        valide=true;
+        if(valideExiste(boite[i])===true)
+        {
+            valide=true;
+        }
+
     }
     return valide;
 }
-function valideExiste()
+function valideExiste(couleur)
 {
     var valide=false;
 
-    while(valide===false)
+    if(document.getElementById(couleur).value==="")
     {
-        if (document.getElementById("txtNbre1").value==="")
-        {
-            document.getElementById("txtNbre1").style.backgroundColor = "red";
-            document.getElementById("txtNbre2").style.backgroundColor = "red";
-            document.getElementById("txtOperateur").style.backgroundColor = "red";
-        }
-        else if(document.getElementById("txtNbre2").value==="")
-        {
-            document.getElementById("txtNbre1").style.backgroundColor = "red";
-            document.getElementById("txtNbre2").style.backgroundColor = "red";
-            document.getElementById("txtOperateur").style.backgroundColor = "red";
-        }
-        else if(document.getElementById("txtOperateur").value==="")
-        {
-            document.getElementById("txtNbre1").style.backgroundColor = "red";
-            document.getElementById("txtNbre2").style.backgroundColor = "red";
-            document.getElementById("txtOperateur").style.backgroundColor = "red";
-        }
-        else
-        {
-            document.getElementById("txtNbre1").style.backgroundColor = "white";
-            document.getElementById("txtNbre2").style.backgroundColor = "white";
-            document.getElementById("txtOperateur").style.backgroundColor = "white";
-            valide=true;
-        }
+        document.getElementById(couleur).style.backgroundColor = "red";
+        valide=false;
     }
-    return valide;
+    else
+    {
+        document.getElementById(couleur).style.backgroundColor = "white";
+        valide=true;
+    }
+
+
+
 
 }
 function calculer(nbr1,nbr2,Symbole)

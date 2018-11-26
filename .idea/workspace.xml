@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4080cbb8-93ad-490f-ad14-9a4fbd75ddb4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/CalculatriceV1/ExerciceChoisirParmi#14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/CalculatriceV1/JS/traitement14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/CSS/monStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/CadreFacture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Circuit de Tyroliennes Géantes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Entete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/FondAventure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Kayak de mer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Parcours en Arbres Extrême.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Parcours en Arbres Régulier.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/img/Via Ferrata.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/GarderieAnimaux V3/CSS/monstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/GarderieAnimaux V3/CSS/monstyle.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,27 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExerciceChoisirParmi#14.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercices  - Choisir Parmi/ExerciceChoisirParmi#14.html">
+      <file leaf-file-name="traitement14.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/ValidationV2/JS/traitement14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="126" selection-start-line="16" selection-start-column="126" selection-end-line="16" selection-end-column="126" />
+            <state relative-caret-position="595">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExerciceChoisirParmi#14.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/CalculatriceV1/ExerciceChoisirParmi#14.html">
+      <file leaf-file-name="ExerciceChoisirParmi#14.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/ValidationV2/ExerciceChoisirParmi#14.html">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="traitement14.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/CalculatriceV1/JS/traitement14.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -65,11 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercises/Exercice5/css/style.css" />
-        <option value="$PROJECT_DIR$/Exercises/exercise5V2/css/style.css" />
-        <option value="$PROJECT_DIR$/Exercises/exercise5V3/css/style.css" />
-        <option value="$PROJECT_DIR$/Exercises/exercise5V3/index.html" />
-        <option value="$PROJECT_DIR$/Exercises/Exercise 1/SCP.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 1/idex.html" />
         <option value="$PROJECT_DIR$/Exercises/Exercice6/CSS/Style.css" />
         <option value="$PROJECT_DIR$/Exercises/Exercice6/index.htm" />
@@ -115,7 +89,12 @@
         <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/index.htm" />
         <option value="$PROJECT_DIR$/Exercises/CinéClub - V2/JS/traitement.js" />
         <option value="$PROJECT_DIR$/Exercises/Exercice _ Joueurs/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/CalculatriceV1/ExerciceChoisirParmi#14.html" />
         <option value="$PROJECT_DIR$/Exercises/CalculatriceV1/JS/traitement14.js" />
+        <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux V3/index.html" />
+        <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux V3/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Exercises/GarderieAnimaux V3/CSS/monstyle.css" />
+        <option value="$PROJECT_DIR$/Exercises/ValidationV2/JS/traitement14.js" />
       </list>
     </option>
   </component>
@@ -131,8 +110,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1372" />
+    <option name="height" value="689" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,39 +135,39 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+              <item name="GarderieAnimaux V3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="GarderieAnimaux V3" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="GarderieAnimaux V3" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercices  - Choisir Parmi" type="462c0819:PsiDirectoryNode" />
+              <item name="ValidationV2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercices  - Choisir Parmi" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
+              <item name="ValidationV2" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -201,6 +179,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,35 +255,11 @@
       <workItem from="1542073196772" duration="1945000" />
       <workItem from="1542075212917" duration="758000" />
       <workItem from="1542205183564" duration="3948000" />
-      <workItem from="1542209413537" duration="2092000" />
-    </task>
-    <task id="LOCAL-00003" summary="titres + but + classe">
-      <created>1535553843059</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1535553843059</updated>
-    </task>
-    <task id="LOCAL-00004" summary="titres + but + classe + url">
-      <created>1535555039162</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1535555039162</updated>
-    </task>
-    <task id="LOCAL-00005" summary="exercises 2 version terminer 1">
-      <created>1536332595057</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1536332595057</updated>
-    </task>
-    <task id="LOCAL-00006" summary="exercises 2 version terminer 2">
-      <created>1536333061640</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1536333061640</updated>
+      <workItem from="1542209413537" duration="2265000" />
+      <workItem from="1542378071779" duration="4298000" />
+      <workItem from="1542916671897" duration="3460000" />
+      <workItem from="1542947375769" duration="1599000" />
+      <workItem from="1543180970676" duration="1796000" />
     </task>
     <task id="LOCAL-00007" summary="add index exercises 3">
       <created>1536712865224</created>
@@ -621,17 +576,45 @@
       <option name="project" value="LOCAL" />
       <updated>1542209146567</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="ValideV1 en cour">
+      <created>1542211659477</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1542211659478</updated>
+    </task>
+    <task id="LOCAL-00053" summary="ValideV1 terminer">
+      <created>1542382125144</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1542382125144</updated>
+    </task>
+    <task id="LOCAL-00054" summary="ValideV2 bug donc en cour">
+      <created>1542922937342</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1542922937342</updated>
+    </task>
+    <task id="LOCAL-00055" summary="bug devoir donc en cour">
+      <created>1542948882265</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1542948882281</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123299000" />
+    <option name="totallyTimeSpent" value="134625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="689" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14401773" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32913387" />
@@ -645,8 +628,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32875368" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -670,10 +653,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Partie 1 terminer" />
-    <MESSAGE value="lab 1 a terminer" />
-    <MESSAGE value="Terminer exercises 1 js" />
-    <MESSAGE value="Exercise 2 terminer" />
     <MESSAGE value="exercise 1 terminer" />
     <MESSAGE value="exercise 2 terminer" />
     <MESSAGE value="exercise 3 terminer" />
@@ -695,37 +674,18 @@
     <MESSAGE value="debut exercise joueur" />
     <MESSAGE value="cineclub incomplet" />
     <MESSAGE value="Joueur terminer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Joueur terminer" />
+    <MESSAGE value="ValideV1 en cour" />
+    <MESSAGE value="ValideV1 terminer" />
+    <MESSAGE value="ValideV2 bug donc en cour" />
+    <MESSAGE value="bug devoir donc en cour" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug devoir donc en cour" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/CSS/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
-          <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/img/Sondage.html" />
-    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/Sondage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercice5/index.html" />
-    <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/page2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="60" column="18" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="60" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab/Lab Institut/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
@@ -951,23 +911,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
           <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!block;n#TrouverMoyenne#0" />
-            <element signature="n#!!block;n#TrouverMeilleur#0" />
-            <element signature="n#!!block;n#TrouvePire#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/CalculatriceV1/ExerciceChoisirParmi#14.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/JS/traitement.js" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Laboratoire CentreAventure-Etu/index.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercices  - Choisir Parmi/JS/traitement14.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -977,17 +925,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercices  - Choisir Parmi/ExerciceChoisirParmi#14.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="126" selection-start-line="16" selection-start-column="126" selection-end-line="16" selection-end-column="126" />
+        <state relative-caret-position="289">
+          <caret line="17" column="42" selection-start-line="17" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/CalculatriceV1/ExerciceChoisirParmi#14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/CalculatriceV1/JS/traitement14.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="161">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux V3/CSS/monstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux V3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/GarderieAnimaux V3/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/ValidationV2/JS/traitement14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/ValidationV2/ExerciceChoisirParmi#14.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
