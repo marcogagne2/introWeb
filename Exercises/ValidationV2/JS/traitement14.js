@@ -1,8 +1,11 @@
 function btnCalculer_onclick()
 {
-    if(validechampobli()===true)
+    if(validechampobli()=== true)
     {
-        saisir();
+        if(valideFormats()=== true)
+        {
+            saisir();
+        }
     }
 }
 function saisir()
@@ -33,7 +36,7 @@ function valideExiste(couleur)
 {
     var valide=false;
 
-    if(document.getElementById(couleur).value==="")
+    if(document.getElementById(couleur).value ==="")
     {
         document.getElementById(couleur).style.backgroundColor = "red";
         valide=false;
@@ -43,7 +46,37 @@ function valideExiste(couleur)
         document.getElementById(couleur).style.backgroundColor = "white";
         valide=true;
     }
+   return valide;
 
+}
+function valideFormats()
+{
+    var valide=true;
+
+    if(valideNo(document.getElementById("txtNbre1").value)===false)
+    {
+        document.getElementById("txtNbre1").style.backgroundColor = "red";
+        valide=false;
+    }
+    if(valideNo(document.getElementById("txtNbre2").value)===false)
+    {
+        document.getElementById("txtNbre2").style.backgroundColor = "red";
+        valide=false;
+    }
+    if(valideOperateur(document.getElementById("txtOperateur").value)===false)
+    {
+        document.getElementById("txtOperateur").style.backgroundColor = "red";
+        valide=false;
+    }
+    return valide;
+}
+function valideNo(chaine)
+{
+    return /^\d$/.test(chaine);
+}
+function valideOperateur(Chaine)
+{
+    return /^(\+)$|^(\-)$|^(\/)$|^(\*)$/.test(Chaine);
 }
 function calculer(nbr1,nbr2,Symbole)
 {
