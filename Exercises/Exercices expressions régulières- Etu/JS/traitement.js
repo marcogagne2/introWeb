@@ -8,7 +8,7 @@ function validerNAS( Chaine )  // numéro d'assurance social 418 789 123
 }
 function validerTel( Chaine )  // au format (418) 876-8373  un numéro ça change
 {
-    return /^(\()(\d{3})(\))(\s)(\d{3})(\-)(\d{4})$/.test(Chaine)
+    return /^[(+)(-)(*)(/)]$/.test(Chaine)
 }
 function validerCar( Chaine ) // des chaînes de caractères alphabétiques majuscule et minuscule et accepte le trait d'union pas obligatoire
 {
