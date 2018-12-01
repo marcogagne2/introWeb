@@ -4,7 +4,18 @@ function frmMembre_onclick()
     {
         if(valideFormat()===true)
         {
+            var txt;
+            var c=confirm("etes vous sur de votre choix?");
 
+            if(c===true)
+            {
+                txt="Vous avez confirmer les données présenter ci-dessous";
+                saisir();
+            }
+            else
+            {
+                txt="Veuillez remettre vos donnees a jour"
+            }
         }
     }
 
@@ -24,9 +35,21 @@ function valideTousChampsObligatoire()
     return valide;
 
 }
-function valideExiste()
+function valideExiste(Valide)
 {
     var valide=false;
+
+    if(document.getElementById(Valide).value ==="")
+    {
+        document.getElementById(Valide).style.backgroundColor = "red";
+        valide=false;
+    }
+    else
+    {
+        document.getElementById(Valide).style.backgroundColor = "white";
+        valide=true;
+    }
+    return valide;
 }
 function valideFormat()
 {
