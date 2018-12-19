@@ -80,7 +80,7 @@ function TrouverMeilleur()
 }
 function btnTrouverPire_onclick()
 {
-    var varpettite,personne;;
+    var varpettite,personne;
 
     varpettite=tabPoint[TrouvePire()];
     personne=tabjoueur[TrouvePire()];
@@ -104,12 +104,28 @@ function TrouvePire()
 }
 function btnRechercher_onclick()
 {
-    for(i=0;i<tabjoueur.lenght;i++)
+    var Trouver,nomPris,nomArriver,scoreArriver,i;
+
+    nomPris=document.getElementById("txtNom").value;
+    i=0;
+    Trouver=false;
+
+    while(Trouver===false&&i<tabjoueur.length)
     {
-        if(tabjoueur[i]=== Nom)
+        if(nomPris=tabjoueur[i])
         {
-            document.getElementById("lblReponse").innerHTML =("Le nombre du joueur correspondant est"+tabPoint[i]);
+            nomArriver=tabjoueur[i];
+            scoreArriver=tabPoint[i];
+            Trouver=true;
         }
+        else
+            i++;
+        if(Trouver===true)
+        {
+            document.getElementById("lblReponse").innerHTML =("le score de "+nomArriver+" est de "+scoreArriver);
+        }
+        else
+            document.getElementById("lblReponse").innerHTML=("Ce nom n'existe pas");
     }
 
 }
